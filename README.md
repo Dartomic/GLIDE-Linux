@@ -6,7 +6,7 @@ GLIDE is learning software. It uses calculations that the Forgetting Curve depen
 
 # Programming Language
 
-Development of GLIDE-Linux will primarily be in the C programming language. The API’s are much more thorough, and up-to-date, than anything in MonoDevelop. I’ve already built a lot of GUI pieces quicker than I could in MonoDevelop, due to their poor documentation maintenance.
+Development of GLIDE-Linux will primarily be in the C programming language. The documentation for the API’s are much more thorough, and up-to-date, than anything in MonoDevelop. I’ve already built a lot of GUI pieces quicker than I could in MonoDevelop, due to their poor documentation maintenance.
 
 The UWP version will probably remain in C#. C is just easier to work with on Linux right now.
 
