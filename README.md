@@ -1,6 +1,6 @@
 # GLIDE-Linux
 
-GLIDE is learning software. It uses calculations that the Forgetting Curve depend on, for the spacing of study rehearsals. GLIDE prevents the decay of the ability, to retrieve information, from dropping too far below 95%. This means that everything a person studies through GLIDE, will be remembered if it is used regularly.
+GLIDE is learning software. It uses calculations that the Forgetting Curve depend on, for the spacing of study rehearsals. GLIDE prevents the decay of the ability to retrieve information, from dropping too far below 95%. This means that everything a person studies through GLIDE, will be remembered if it is used regularly.
 
 
 
